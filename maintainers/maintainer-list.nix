@@ -5691,6 +5691,12 @@
     githubId = 62989;
     name = "Demyan Rogozhin";
   };
+  dennshirennshij = {
+    email = "github.catwalk963@passmail.net";
+    github = "dennshirennshij";
+    githubId = "111683708";
+    name = "Dennshirennshij";
+  };
   Denommus = {
     email = "yuridenommus@gmail.com";
     github = "Denommus";
